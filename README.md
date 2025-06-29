@@ -38,10 +38,10 @@ El Data Warehouse fue desarrollado en dos fases principales:
 ## 📷 Ejemplos Visuales
 
 ### Control Flow:
-![Control Flow](./47a387b1-1118-4200-a2ec-28058d833c14.png)
+![Image](https://github.com/user-attachments/assets/eab015db-c413-4a14-9147-4609833883e1)
 
 ### Data Flow:
-![Data Flow](./0a7308d9-c888-4389-a516-b416e8bab62d.png)
+![Image](https://github.com/user-attachments/assets/e7cf67c4-428c-4f09-8116-b82855e0ebf1)
 
 ## ✅ Objetivos Alcanzados
 
