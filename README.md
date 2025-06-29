@@ -43,6 +43,23 @@ El Data Warehouse fue desarrollado en dos fases principales:
 ### Data Flow:
 ![Image](https://github.com/user-attachments/assets/e7cf67c4-428c-4f09-8116-b82855e0ebf1)
 
+### Cubo de Datos:
+![Image](https://github.com/user-attachments/assets/b7ba6e30-c525-4350-869b-2ffa6d27796b)
+
+### Visualización de Datos en Power BI:
+
+### Figura 1:
+![Image](https://github.com/user-attachments/assets/6c5aac6d-9bd4-485c-8af7-f7cdcf52dc90)
+
+### Figura 2: 
+![Image](https://github.com/user-attachments/assets/3375ea06-c812-46b5-a069-a90e8c7685eb)
+
+### Figura 3:
+![Image](https://github.com/user-attachments/assets/47c9cf0a-9764-4fa7-8d0a-3f3e6ae08f7c)
+
+### Figura 4:
+![Image](https://github.com/user-attachments/assets/ea45e8c9-260d-46f5-a63d-c324bc3a7283)
+
 ## ✅ Objetivos Alcanzados
 
 - Automatización del flujo ETL.
@@ -55,6 +72,3 @@ El Data Warehouse fue desarrollado en dos fases principales:
 - Asegurarse de tener configuradas las conexiones OLE DB correctamente.
 - Validar las rutas de los archivos planos si se utiliza un entorno diferente.
 - Revisión de los logs de error para manejar salidas de error desde los `Lookup`.
-
-## 📂 Estructura del Proyecto
-
